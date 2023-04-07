@@ -1,2 +1,0 @@
-# aprendiendo-react
-React Projects
